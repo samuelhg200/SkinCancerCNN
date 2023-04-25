@@ -16,6 +16,12 @@ Dataset and trained files can't be added to the github link due to space limitat
 <a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
 2 - Unzip and save the folder into your working directory and rename to data2<br><br>
 
+<h2>Downloading the trained models:</h2>
+1 - Download the trained EfficientNetB3 model at: <br><br>
+<a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
+2 - Download the trained ResNet50 model at: <br><br>
+<a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
+
 <h2>Evaluating and running the trained models:</h2>
 1 - Go to line 313 in cnn.py and change the name of the model to the one you wish to load.<br>
 2 - Comment out lines 377 to 389 in the cnn.py file. Only a function call to Evaluate_Model() should be kept.<br>
