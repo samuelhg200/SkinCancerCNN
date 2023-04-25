@@ -9,9 +9,9 @@
 6 - Troubleshoot accordingly<br>
 <br>
 
-<h2>Downloading the dataset:<h2>
-1 - Download at: <br><br>
-<a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
+<h2>Downloading the dataset:</h2>
+1 - Download at: <br>
+<a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br>
 2 - Save the file in your working directory as data2<br><br>
 
 <h2>Running the trained models:</h2>
