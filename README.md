@@ -19,10 +19,5 @@ Running the trained models:
 Training a model:
 
 1 - Check lines 377 to 390 at the bottom of the cnn.py file. Uncomment the 3 lines for the model you want to train. 
-e.g.:
-model = Create_My_ResNet50_Model()
-Train_Model(model, name='resnet50')
-Evaluate_Model()
-
 2 - Figures will be saved as well as the trained model to the working directory and metrics will be printed to the terminal. 
 
