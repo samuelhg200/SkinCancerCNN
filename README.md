@@ -1,5 +1,7 @@
 # SkinCancerCNN
 
+Dataset and trained files can't be added to the github link due to space limitations of the platform. Links will be provided below.
+
 <h2>Setting up the environment:</h2>
 1 - Make sure you have python 3.11.0 installed.<br>
 2 - Create a virtual environment running python -m venv .venv<br>
