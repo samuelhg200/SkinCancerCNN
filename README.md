@@ -17,7 +17,7 @@ Dataset and trained files can't be added to the github repo due to space limitat
 
 <h2>Downloading the trained models:</h2>
 1 - Download the trained EfficientNetB3 model at: <a href="https://drive.google.com/file/d/14y3Q1AneC8bO3CRymK6JsA12ROeGQ1j0/view?usp=sharing">Download link</a><br>
-2 - Download the trained ResNet50 model at: <a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br>
+2 - Download the trained ResNet50 model at: <a href="https://drive.google.com/file/d/18ZUS_Uu_ti7nBjsfPuQqnQQFex2QC_5X/view?usp=sharing">Download link</a><br>
 3 - Add both files to your working directory<br><br>
 
 <h2>Evaluating and running the trained models:</h2>
