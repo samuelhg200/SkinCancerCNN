@@ -1,6 +1,6 @@
 # SkinCancerCNN
 
-Dataset and trained files can't be added to the github link due to space limitations of the platform. Links will be provided below.
+Dataset and trained files can't be added to the github repo due to space limitations of the platform. Links will be provided below.
 
 <h2>Setting up the environment:</h2>
 1 - Make sure you have python 3.11.0 installed.<br>
@@ -18,7 +18,7 @@ Dataset and trained files can't be added to the github link due to space limitat
 
 <h2>Downloading the trained models:</h2>
 1 - Download the trained EfficientNetB3 model at: <br><br>
-<a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
+<a href="https://drive.google.com/file/d/14y3Q1AneC8bO3CRymK6JsA12ROeGQ1j0/view?usp=sharing">Download link</a><br><br>
 2 - Download the trained ResNet50 model at: <br><br>
 <a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
 
