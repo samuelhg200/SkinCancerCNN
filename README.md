@@ -21,6 +21,7 @@ Dataset and trained files can't be added to the github repo due to space limitat
 <a href="https://drive.google.com/file/d/14y3Q1AneC8bO3CRymK6JsA12ROeGQ1j0/view?usp=sharing">Download link</a><br><br>
 2 - Download the trained ResNet50 model at: <br><br>
 <a href="https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign">Download link</a><br><br>
+3 - Add both files to your working directory<br><br>
 
 <h2>Evaluating and running the trained models:</h2>
 1 - Go to line 313 in cnn.py and change the name of the model to the one you wish to load.<br>
